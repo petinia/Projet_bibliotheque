@@ -14,11 +14,19 @@ Ce projet est un système de gestion pour une bibliothèque. Le but, c'est de po
 ## architecture du projet
 ### structure des fichiers
 
-**PROJET_BIBLIOTHEQUE**
-1. bibliotheque(*a-main.py*;*b-book.py*;*c-Category.py*;*d-Library.py*;*e-books.csv*)
+PROJET_BIBLIOTHEQUE/
+
+1. bibliotheque/
+   A. main.py
+   B. Book.py
+   C. Category.py
+   D. Library.py
+   E. books.csv
+
 2. README.md
 3. uml.png
 4. .gitignore
+
 ### diagramme de classes uml
 <img src="uml.png" alt="Diagramme UML">
 
