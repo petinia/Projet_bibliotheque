@@ -1,0 +1,57 @@
+Catégorie;Titre ;Auteur;Année;Disponible
+
+Roman;Madame Bovary;Gustave Flaubert;1857;yes
+Roman;Germinal;Émile Zola;1885;no
+Roman;Notre-Dame de Paris;Victor Hugo;1831;yes
+Roman;Bel-Ami;Guy de Maupassant;1885;yes
+Roman;La Chartreuse de Parme;Stendhal;1839;no
+Roman;Le Père Goriot;Balzac;1835;yes
+Roman;L’Éducation sentimentale;Gustave Flaubert;1869;no
+Roman;La Condition humaine;André Malraux;1933;yes
+Roman;La Peste;Albert Camus;1947;no
+Roman;L’Étranger;Albert Camus;1942;yes
+
+Théâtre;Andromaque;Racine;1667;yes
+Théâtre;Le Cid;Corneille;1636;yes
+Théâtre;Le Tartuffe;Molière;1664;no
+Théâtre;Dom Juan;Molière;1665;yes
+Théâtre;Les Fourberies de Scapin;Molière;1671;yes
+Théâtre;Bérénice;Racine;1670;no
+Théâtre;Britannicus;Racine;1669;yes
+Théâtre;Les Justes;Albert Camus;1949;yes
+Théâtre;Rhinocéros;Ionesco;1959;no
+Théâtre;En attendant Godot;Beckett;1952;yes
+
+Philosophie;Discours de la méthode;Descartes;1637;yes
+Philosophie;Éthique;Spinoza;1677;no
+Philosophie;Ainsi parlait Zarathoustra;Nietzsche;1883;yes
+Philosophie;Le Contrat social;Rousseau;1762;yes
+Philosophie;Le Banquet;Platon;380;no
+Philosophie;Métaphysique;Aristote;350;yes
+Philosophie;Essais;Montaigne;1580;yes
+Philosophie;Traité sur la tolérance;Voltaire;1763;no
+Philosophie;Être et Temps;Heidegger;1927;yes
+Philosophie;Le Capital;Marx;1867;no
+
+Science;Traité d’optique;Newton;1704;yes
+Science;Principe de relativité;Albert Einstein;1905;yes
+Science;Système du monde;Laplace;1796;no
+Science;Dialogue sur les deux grands systèmes;Galilée;1632;yes
+Science;L’Interprétation des rêves;Freud;1899;no
+Science;Introduction à la Psychanalyse;Freud;1916;yes
+Science;Cosmos;Carl Sagan;1980;yes
+Science;Une brève histoire du temps;Stephen Hawking;1988;no
+Science;Sur l’origine des espèces;Darwin;1859;no
+Science;Le Gène égoïste;Richard Dawkins;1976;yes
+
+Histoire;La Guerre des Gaules;Jules César;52;yes
+Histoire;L’Histoire;Hérodote;440;no
+Histoire;Les Rois maudits;Maurice Druon;1955;yes
+Histoire;Le Siècle de Louis XIV;Voltaire;1751;yes
+Histoire;Histoire de la Révolution française;Jules Michelet;1847;no
+Histoire;Sapiens;Yuval Noah Harari;2011;yes
+Histoire;Homo Deus;Yuval Noah Harari;2015;yes
+Histoire;La Chute de l’Empire romain;Gibbon;1776;no
+Histoire;Les Croisades vues par les Arabes;Amin Maalouf;1983;yes
+Histoire;La Première Guerre mondiale;Jean-Yves Le Naour;2013;yes
+
